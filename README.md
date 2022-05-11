@@ -1,2 +1,0 @@
-# Example-BEDU
-Project BEDU
